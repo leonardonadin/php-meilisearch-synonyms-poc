@@ -1,0 +1,20 @@
+{
+    "name": "leo/php-meilisearch-synonyms-poc",
+    "description": "POC for Synonyms in Meilisearch with PHP",
+    "autoload": {
+        "psr-4": {
+            "Leo\\PhpMeilisearchSynonymsPoc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Leonardo Nadin",
+            "email": "nadin.leonardo@gmail.com"
+        }
+    ],
+    "require": {
+        "meilisearch/meilisearch-php": "^0.25.0",
+        "guzzlehttp/guzzle": "^7.5",
+        "http-interop/http-factory-guzzle": "^1.0"
+    }
+}
