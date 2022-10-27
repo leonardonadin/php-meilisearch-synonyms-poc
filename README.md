@@ -2,6 +2,6 @@
 
 Search with synonyms in Meilisearch
 
-...
+```
 php script.php
-...
+```
